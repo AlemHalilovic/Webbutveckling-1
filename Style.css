@@ -1,12 +1,19 @@
-body{
-background-color: crimson;
-color: ;
+body{ 
+background-color:black;
+color:blue ;
 }
 h1{ font-family: Arial;
     text-align: center;
     font-size: 22px;
 }
 h2{text-align: center;}
-.styck{text-align:center;
+.styck{text-align:center; 
+    
+
 
 }
+.styck{
+border: 1px solid green;
+
+}
+.styck2{border: 1px solid green;}
